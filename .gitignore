@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+
+# Результаты сборки и бинарные файлы
+/build/
+/dist/
+*.bin
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.obj
+
+# Архивы
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+*.bz2
+*.xz
+
+# Локальные настройки редакторов и ОС
+.idea/
+.vscode/
+.vs/
+*.sublime-project
+*.sublime-workspace
+*.swp
+.DS_Store
+Thumbs.db
